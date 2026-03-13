@@ -8,4 +8,5 @@ do Git.
 - script.js
 ## Próximo passo
 Entender a diferença entre modified e
-untracked.
+untracked.## Fluxo de trabalho
+Este projeto utiliza github Flow.
